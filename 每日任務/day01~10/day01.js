@@ -1,5 +1,9 @@
 // codepen: https://codepen.io/yuyeh1212/pen/emOgdVZ
 
+// 參考資料:
+// Buttons: https://getbootstrap.com/docs/5.3/components/buttons/
+// Alert: https://getbootstrap.com/docs/5.3/components/alerts/
+
 // 變數:
 // 1. 我的 Discord 名稱
 const myDiscordName = "yuyeh_1212";
